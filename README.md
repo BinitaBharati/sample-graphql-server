@@ -8,7 +8,7 @@ Invoke `yarn start` to build and run the server.
 # Test
 [GraphiQL](https://github.com/graphql/graphiql) interface is enabled with this project. The GraphQL queries can be invoked at : [http://host:4000/graphql](http://host:4000/graphql)
 
-Screen shot og GraphiQL interface:
+Screen shot of GraphiQL interface:
 ![GraphiQL interface](doc/graphiql.png)
 
 
